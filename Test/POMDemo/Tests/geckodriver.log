@@ -1,0 +1,1479 @@
+1620678091334	geckodriver	INFO	Listening on 127.0.0.1:52166
+1620678094360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofile3ZeGLx"
+1620678095334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620678098203	Marionette	INFO	Listening on port 52174
+1620678098321	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:11601:17
+sendMessageToTab/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:11601:17
+sendMessageToTab/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:11601:17
+sendMessageToTab/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:11601:17
+sendMessageToTab/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:11601:17
+sendMessageToTab/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:11601:17
+sendMessageToTab/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:11601:17
+sendMessageToTab/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:11601:17
+sendMessageToTab/<@moz-extension://6ddd1495-16c2-407e-a7aa-a0128497c04a/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620678101792	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:81117
+1620678105001	Marionette	INFO	Stopped listening on port 52174
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620679036782	geckodriver	INFO	Listening on 127.0.0.1:52399
+1620679039785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofileyNNWcs"
+1620679040475	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620679043434	Marionette	INFO	Listening on port 52407
+1620679043487	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:11601:17
+sendMessageToTab/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:11601:17
+sendMessageToTab/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:11601:17
+sendMessageToTab/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:11601:17
+sendMessageToTab/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:11601:17
+sendMessageToTab/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:11601:17
+sendMessageToTab/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:11601:17
+sendMessageToTab/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:11601:17
+sendMessageToTab/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:11601:17
+sendMessageToTab/<@moz-extension://a5aafceb-d245-44d7-82a0-a05fa6767fc5/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620679047376	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:81117
+1620679050586	Marionette	INFO	Stopped listening on port 52407
+1620682603803	geckodriver	INFO	Listening on 127.0.0.1:65323
+1620682606862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofileaCM6D8"
+1620682608758	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620682613533	Marionette	INFO	Listening on port 65332
+1620682613643	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js:11601:17
+sendMessageToTab/<@moz-extension://8ccb44a9-ad92-4eb2-be53-31fced44bcb7/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620682615893	Marionette	INFO	Stopped listening on port 65332
+1620682647211	geckodriver	INFO	Listening on 127.0.0.1:65394
+1620682650307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofileHkQDt9"
+1620682652113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620682656968	Marionette	INFO	Listening on port 65402
+1620682657483	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js:11601:17
+sendMessageToTab/<@moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js:11601:17
+sendMessageToTab/<@moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js:11601:17
+sendMessageToTab/<@moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js:11601:17
+sendMessageToTab/<@moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js:11601:17
+sendMessageToTab/<@moz-extension://1e643693-0fb5-4354-9545-91c3d2237b35/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620682659951	Marionette	INFO	Stopped listening on port 65402
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620682817948	geckodriver	INFO	Listening on 127.0.0.1:65468
+1620682821066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofileAvYcOM"
+1620682822570	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620682827088	Marionette	INFO	Listening on port 65480
+1620682827539	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://477eabc4-f2ce-46ac-aa76-e875a101cdfa/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://477eabc4-f2ce-46ac-aa76-e875a101cdfa/background.js:11601:17
+sendMessageToTab/<@moz-extension://477eabc4-f2ce-46ac-aa76-e875a101cdfa/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://477eabc4-f2ce-46ac-aa76-e875a101cdfa/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://477eabc4-f2ce-46ac-aa76-e875a101cdfa/background.js:11601:17
+sendMessageToTab/<@moz-extension://477eabc4-f2ce-46ac-aa76-e875a101cdfa/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://477eabc4-f2ce-46ac-aa76-e875a101cdfa/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://477eabc4-f2ce-46ac-aa76-e875a101cdfa/background.js:11601:17
+sendMessageToTab/<@moz-extension://477eabc4-f2ce-46ac-aa76-e875a101cdfa/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://477eabc4-f2ce-46ac-aa76-e875a101cdfa/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://477eabc4-f2ce-46ac-aa76-e875a101cdfa/background.js:11601:17
+sendMessageToTab/<@moz-extension://477eabc4-f2ce-46ac-aa76-e875a101cdfa/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620682830353	Marionette	INFO	Stopped listening on port 65480
+1620683229102	geckodriver	INFO	Listening on 127.0.0.1:49215
+1620683232188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofileRZVmzC"
+1620683234918	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620683239974	Marionette	INFO	Listening on port 49223
+1620683240392	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js:11601:17
+sendMessageToTab/<@moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js:11601:17
+sendMessageToTab/<@moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js:11601:17
+sendMessageToTab/<@moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js:11601:17
+sendMessageToTab/<@moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js:11601:17
+sendMessageToTab/<@moz-extension://73d1cc23-7580-4cc8-a328-28b28310543b/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620683243162	Marionette	INFO	Stopped listening on port 49223
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620684268658	geckodriver	INFO	Listening on 127.0.0.1:49609
+1620684271759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofileoC4TRV"
+1620684273583	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620684278476	Marionette	INFO	Listening on port 49617
+1620684278919	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js:11601:17
+sendMessageToTab/<@moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js:11601:17
+sendMessageToTab/<@moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js:11601:17
+sendMessageToTab/<@moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js:11601:17
+sendMessageToTab/<@moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js:11601:17
+sendMessageToTab/<@moz-extension://75ca1ad5-acb4-4547-927c-4e9358791aa9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620684281509	Marionette	INFO	Stopped listening on port 49617
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620684304088	geckodriver	INFO	Listening on 127.0.0.1:49684
+1620684307160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofileQYivUv"
+1620684309191	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620684314301	Marionette	INFO	Listening on port 49693
+1620684314821	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js:11601:17
+sendMessageToTab/<@moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js:11601:17
+sendMessageToTab/<@moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js:11601:17
+sendMessageToTab/<@moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js:11601:17
+sendMessageToTab/<@moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js:11601:17
+sendMessageToTab/<@moz-extension://7b363a6a-eb7d-42d7-a951-11434787c9c0/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620684317387	Marionette	INFO	Stopped listening on port 49693
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620846275699	geckodriver	INFO	Listening on 127.0.0.1:62402
+1620846278718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofilejBdd48"
+1620846279464	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620846282809	Marionette	INFO	Listening on port 62410
+1620846282950	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js:11601:17
+sendMessageToTab/<@moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js:11601:17
+sendMessageToTab/<@moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js:11601:17
+sendMessageToTab/<@moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js:11601:17
+sendMessageToTab/<@moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js:11601:17
+sendMessageToTab/<@moz-extension://ed2f994c-f400-455c-8271-94c7cf562136/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620846284551	Marionette	INFO	Stopped listening on port 62410
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620846323503	geckodriver	INFO	Listening on 127.0.0.1:62486
+1620846326468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofileBDJhIp"
+1620846327183	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620846330211	Marionette	INFO	Listening on port 62497
+1620846330708	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js:11601:17
+sendMessageToTab/<@moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js:11601:17
+sendMessageToTab/<@moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js:11601:17
+sendMessageToTab/<@moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js:11601:17
+sendMessageToTab/<@moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js:11601:17
+sendMessageToTab/<@moz-extension://d6cc8aca-2601-49b6-b126-53119ef754eb/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620846332313	Marionette	INFO	Stopped listening on port 62497
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620846747032	geckodriver	INFO	Listening on 127.0.0.1:56416
+1620846750047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofileuWnnrc"
+1620846750747	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620846753726	Marionette	INFO	Listening on port 56424
+1620846753773	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://be0e7417-8056-4980-8e22-9392cc9ba63a/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://be0e7417-8056-4980-8e22-9392cc9ba63a/background.js:11601:17
+sendMessageToTab/<@moz-extension://be0e7417-8056-4980-8e22-9392cc9ba63a/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://be0e7417-8056-4980-8e22-9392cc9ba63a/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://be0e7417-8056-4980-8e22-9392cc9ba63a/background.js:11601:17
+sendMessageToTab/<@moz-extension://be0e7417-8056-4980-8e22-9392cc9ba63a/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://be0e7417-8056-4980-8e22-9392cc9ba63a/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://be0e7417-8056-4980-8e22-9392cc9ba63a/background.js:11601:17
+sendMessageToTab/<@moz-extension://be0e7417-8056-4980-8e22-9392cc9ba63a/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620846755167	Marionette	INFO	Stopped listening on port 56424
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620846864591	geckodriver	INFO	Listening on 127.0.0.1:56510
+1620846867600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofilet0e5Hu"
+1620846868327	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620846871058	Marionette	INFO	Listening on port 56518
+1620846871302	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js:11601:17
+sendMessageToTab/<@moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js:11601:17
+sendMessageToTab/<@moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js:11601:17
+sendMessageToTab/<@moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js:11601:17
+sendMessageToTab/<@moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js:11601:17
+sendMessageToTab/<@moz-extension://ee430cb2-3dcb-4a4e-be7c-ece9b198b9cc/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620846872967	Marionette	INFO	Stopped listening on port 56518
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620846918904	geckodriver	INFO	Listening on 127.0.0.1:56578
+1620846921933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofile1IK79k"
+1620846922709	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620846925605	Marionette	INFO	Listening on port 56586
+1620846925643	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:11601:17
+sendMessageToTab/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:11601:17
+sendMessageToTab/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:11601:17
+sendMessageToTab/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:11601:17
+sendMessageToTab/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:11601:17
+sendMessageToTab/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:11601:17
+sendMessageToTab/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:11601:17
+sendMessageToTab/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:11601:17
+sendMessageToTab/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:11601:17
+sendMessageToTab/<@moz-extension://8a5a3e2f-41a0-449c-bc09-dba6c3999a09/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620846929043	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:81117
+1620846929283	Marionette	INFO	Stopped listening on port 56586
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620847396175	geckodriver	INFO	Listening on 127.0.0.1:56690
+1620847399199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofileDq9RdX"
+1620847399955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620847403083	Marionette	INFO	Listening on port 56699
+1620847403426	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js:11601:17
+sendMessageToTab/<@moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js:11601:17
+sendMessageToTab/<@moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js:11601:17
+sendMessageToTab/<@moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js:11601:17
+sendMessageToTab/<@moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js:11601:17
+sendMessageToTab/<@moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js:11601:17
+sendMessageToTab/<@moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js:11601:17
+sendMessageToTab/<@moz-extension://a9a06424-b35a-4d8a-be0c-b8d51a84d7da/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620847406403	Marionette	INFO	Stopped listening on port 56699
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620847541117	geckodriver	INFO	Listening on 127.0.0.1:56784
+1620847544159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofile5UmHp0"
+1620847544877	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620847547677	Marionette	INFO	Listening on port 56792
+1620847547883	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:11601:17
+sendMessageToTab/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:11601:17
+sendMessageToTab/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:11601:17
+sendMessageToTab/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:11601:17
+sendMessageToTab/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:11601:17
+sendMessageToTab/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:11601:17
+sendMessageToTab/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:11601:17
+sendMessageToTab/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:11601:17
+sendMessageToTab/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:11601:17
+sendMessageToTab/<@moz-extension://cdcd76c6-bc5f-444f-8db5-2184a3be9cb2/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620847552200	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js:2:81117
+1620847552426	Marionette	INFO	Stopped listening on port 56792
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620847608020	geckodriver	INFO	Listening on 127.0.0.1:56850
+1620847611032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofilepuqMGj"
+1620847611738	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620847614488	Marionette	INFO	Listening on port 56858
+1620847614751	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:11601:17
+sendMessageToTab/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:11601:17
+sendMessageToTab/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:11601:17
+sendMessageToTab/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:11601:17
+sendMessageToTab/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:11601:17
+sendMessageToTab/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:11601:17
+sendMessageToTab/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:11601:17
+sendMessageToTab/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:11601:17
+sendMessageToTab/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:11601:17
+sendMessageToTab/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:11601:17
+sendMessageToTab/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:11601:17
+sendMessageToTab/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:11601:17
+sendMessageToTab/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:11601:17
+sendMessageToTab/<@moz-extension://d97fdae5-cd07-4b67-8163-ac29934b6880/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620847621888	Marionette	INFO	Stopped listening on port 56858
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620849891970	geckodriver	INFO	Listening on 127.0.0.1:53606
+1620849895047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofile4DVtco"
+1620849896866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620849901551	Marionette	INFO	Listening on port 53614
+1620849901701	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:11601:17
+sendMessageToTab/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:11601:17
+sendMessageToTab/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:11601:17
+sendMessageToTab/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:11601:17
+sendMessageToTab/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:11601:17
+sendMessageToTab/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:11601:17
+sendMessageToTab/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:11601:17
+sendMessageToTab/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:11601:17
+sendMessageToTab/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:11601:17
+sendMessageToTab/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:11601:17
+sendMessageToTab/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:11601:17
+sendMessageToTab/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:11601:17
+sendMessageToTab/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:11601:17
+sendMessageToTab/<@moz-extension://36ed7047-64aa-4eef-ba30-535dd4d76070/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620849911550	Marionette	INFO	Stopped listening on port 53614
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620850781013	geckodriver	INFO	Listening on 127.0.0.1:53806
+1620850784089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofileixb3uu"
+1620850785822	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620850790806	Marionette	INFO	Listening on port 53816
+1620850791154	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:11601:17
+sendMessageToTab/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:11601:17
+sendMessageToTab/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:11601:17
+sendMessageToTab/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:11601:17
+sendMessageToTab/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:11601:17
+sendMessageToTab/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:11601:17
+sendMessageToTab/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:11601:17
+sendMessageToTab/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:11601:17
+sendMessageToTab/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:11601:17
+sendMessageToTab/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:11601:17
+sendMessageToTab/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:11601:17
+sendMessageToTab/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:11601:17
+sendMessageToTab/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:11601:17
+sendMessageToTab/<@moz-extension://a3e97c33-3b9d-429b-9ce9-e95b492d9342/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1620850800521	Marionette	INFO	Stopped listening on port 53816
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621535471860	geckodriver	INFO	Listening on 127.0.0.1:58054
+1621535474882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofilee7jSmP"
+1621535475615	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621535478331	Marionette	INFO	Listening on port 58062
+1621535478587	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:11601:17
+sendMessageToTab/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:11601:17
+sendMessageToTab/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:11601:17
+sendMessageToTab/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:11601:17
+sendMessageToTab/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:11601:17
+sendMessageToTab/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:11601:17
+sendMessageToTab/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:11601:17
+sendMessageToTab/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:11601:17
+sendMessageToTab/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:11601:17
+sendMessageToTab/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:11601:17
+sendMessageToTab/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:11601:17
+sendMessageToTab/<@moz-extension://e98cd3bf-c1cc-4e43-afae-98173e6b3442/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1621535490662	Marionette	INFO	Stopped listening on port 58062
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621964426315	geckodriver	INFO	Listening on 127.0.0.1:53105
+1621964429336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ealaayy\\AppData\\Local\\Temp\\rust_mozprofileI2VRzi"
+1621964430035	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621964433117	Marionette	INFO	Listening on port 53113
+1621964433572	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:11601:17
+sendMessageToTab/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:11601:17
+sendMessageToTab/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:11601:17
+sendMessageToTab/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:11601:17
+sendMessageToTab/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:11601:17
+sendMessageToTab/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:11601:17
+sendMessageToTab/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:11601:17
+sendMessageToTab/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:11601:17
+sendMessageToTab/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:11601:17
+sendMessageToTab/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:11601:17
+sendMessageToTab/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+Extension error: TypeError: documentTitleResponse is undefined moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js 11601
+[[Exception stack
+this.AternityExtension.background</TabsMonitoring.prototype.scheduleUpdateDocumentTitleInFrames/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:11601:17
+sendMessageToTab/<@moz-extension://953d06c8-e26e-4234-a49a-e0ed9c3337d9/background.js:3777:24
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:829:22
+]]
+1621964440997	Marionette	INFO	Stopped listening on port 53113
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
